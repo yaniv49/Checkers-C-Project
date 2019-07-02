@@ -1,0 +1,11 @@
+C:\Users\Yaniv\Desktop\GitHub\Checkers\Ex05.WindowsUI\bin\Debug\Ex05.WindowsUI.exe
+C:\Users\Yaniv\Desktop\GitHub\Checkers\Ex05.WindowsUI\bin\Debug\Ex05.WindowsUI.pdb
+C:\Users\Yaniv\Desktop\GitHub\Checkers\Ex05.WindowsUI\bin\Debug\Ex05.CheckersLogic.dll
+C:\Users\Yaniv\Desktop\GitHub\Checkers\Ex05.WindowsUI\bin\Debug\Ex05.CheckersLogic.pdb
+C:\Users\Yaniv\Desktop\GitHub\Checkers\Ex05.WindowsUI\obj\Debug\Ex05.WindowsUI.csprojResolveAssemblyReference.cache
+C:\Users\Yaniv\Desktop\GitHub\Checkers\Ex05.WindowsUI\obj\Debug\Ex05.WindowsUI.ExitForm.resources
+C:\Users\Yaniv\Desktop\GitHub\Checkers\Ex05.WindowsUI\obj\Debug\Ex05.WindowsUI.Properties.Resources.resources
+C:\Users\Yaniv\Desktop\GitHub\Checkers\Ex05.WindowsUI\obj\Debug\Ex05.WindowsUI.csproj.GenerateResource.Cache
+C:\Users\Yaniv\Desktop\GitHub\Checkers\Ex05.WindowsUI\obj\Debug\Ex05.WindowsUI.csproj.CoreCompileInputs.cache
+C:\Users\Yaniv\Desktop\GitHub\Checkers\Ex05.WindowsUI\obj\Debug\Ex05.WindowsUI.exe
+C:\Users\Yaniv\Desktop\GitHub\Checkers\Ex05.WindowsUI\obj\Debug\Ex05.WindowsUI.pdb
